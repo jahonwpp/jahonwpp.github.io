@@ -1,0 +1,79 @@
+body {
+  background-image: url('1.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Verdana,  sans-serif, Monotype Corsiva; 
+  font-size: 19px; 
+  background-color: #DCDCDC;
+  color: #FF00FF;
+
+}
+h1:hover
+{
+  background-color: #1E90FF;
+}
+
+h1 {
+  font-family: Monotype Corsiva;
+  font-color: #FF00FF;
+  font-size: 30pt;
+  text-align: center;
+  margin-left: 30px; 
+  margin-right: 30px;
+  border-left: 3px solid #00008B; 
+  border-bottom: 3px solid #00008B;
+  border-right: 3px solid #00008B;
+  border-top: 3px solid #00008B;
+  padding-left: 10px; 
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+a
+{
+  font-size: 110%;
+  color: #00008B;
+  text-decoration: Monotype Corsiva;
+}
+nav ul li
+{
+  font-family: Monotype Corsiva;
+  font-size: 25pt;
+  margin-left: 44%;
+  margin-right: 45%;
+  color: #00008B;
+}
+nav ul li:hover{
+  background-color: #1E90FF;
+  font-size: 30pt;
+  color: #1E90FF;
+}
+p
+{ 
+  text-align: center;
+  color: #00008B;
+  font-size:24pt;
+  font-family: Monotype Corsiva;
+  margin-left: 5%;
+  margin-right: 20%;
+}
+
+ul
+{
+  text-align: center;
+  margin-right: 50px;
+}
+img
+{
+  height: 175px;
+  width: 260px;
+}
+h2
+{
+  text-align: center;
+  font-family: monotype Corsiva;
+  font-size: 200%;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #00008B;
+}

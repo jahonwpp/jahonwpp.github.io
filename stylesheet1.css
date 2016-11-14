@@ -1,0 +1,35 @@
+body 
+{
+		background-color:#CEF6F5;
+	font-family:CENTURY GOTHIC;
+	text-align:center;
+}
+h1
+{
+	font-family:CENTURY GOTHIC;
+	color:black;
+}
+li{
+	font-size:21pt;
+}
+p.world{
+	color:black;
+	font-size:16pt;
+}
+hr.m{
+	border:none;
+	width:50%;
+
+	background-color:black;
+}
+h2.n{
+	color:#FE2E2E;
+}
+div
+{
+	margin:auto;
+	background-color:lightred;
+	border:15px 2E2E2E;
+	height:200px;
+	width:400px;
+}

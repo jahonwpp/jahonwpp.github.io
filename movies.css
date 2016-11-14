@@ -1,0 +1,99 @@
+body {
+	background-image:5.jpg;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: CENTURY GOTHIC , sans-serif, Monotype Corsiva; 
+  font-size: 19px; 
+  color: #2E2E2E;
+}
+h1:hover
+{
+  background-color:#58FAF4;
+
+}
+img
+{
+  height:300;
+  width: 300;
+}
+
+
+h1 {
+  font-family: CENTURY GOTHIC;
+  font-color: #58FAF4;
+  font-size: 30pt;
+  text-align: center;
+  margin-left: 40px; 
+  margin-right: 40px;
+  border-left: 3px solid #58FAF4; 
+  border-bottom: 3px solid #58FAF4;
+  border-right: 3px solid #58FAF4;
+  border-top: 3px solid #58FAF4;
+  padding-left: 10px; 
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+a
+{
+  font-size: 100%;
+  color: #2E2E2E;
+  text-decoration: CENTURY GOTHIC;
+}
+h2
+{
+  font-size: 230%;
+  padding-top: 10px;
+  text-align: center;
+  font-family: CENTURY GOTHIC;
+}
+table
+{
+  padding-left: 20px;
+}
+ul
+{
+  font-family: CENTURY GOTHIC;
+  font-size: 180%;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 20pt;
+  align-items: fixed; 
+}
+h3
+{ 
+  font-family:;
+  text-align: left;
+  font-size: 160%;
+  padding-bottom: 15px;
+}
+td 
+{
+  padding-right: 40px; 
+}
+li 
+{ 
+  padding-left: 10px;
+  text-align: left; 
+}
+p
+{
+  padding-left: 10px;
+  font-size: 25px;
+}
+img
+{
+  padding-top: 30pt;
+  padding-bottom: 30pt;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    border-color: #58FAF4;
+}
